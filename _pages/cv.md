@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.A. in Social Sciences, Sciences Po Paris, 2017
 * B.S. in Applied Mathematics, Paris 1 Panthéon-Sorbonne University, 2017
 * Engineering Degree, ENSAE Paris, 2020
