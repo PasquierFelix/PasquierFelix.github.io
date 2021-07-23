@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Felix Pasquier"
+title                    : "Félix Pasquier"
 title_separator          : "-"
-name                     : &name "Felix Pasquier"
+name                     : &name "Félix Pasquier"
 description              : &description "PhD Candidate in Economics at CREST/ENSAE/IP Paris"
 url                      : https://felixpasquier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &FelixPasquier
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
