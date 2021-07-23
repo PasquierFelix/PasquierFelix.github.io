@@ -12,4 +12,4 @@ I am a PhD candidate at [CREST](https://crest.science/), [ENSAE Paris](https://w
 
 My research focuses on public policy evaluation, robust to heterogeneous effects. I have a particular interest for differences-in-differences methods and long-term care policies.
 
-**Contact**: felix[dot]pasquier[at]ensae[dot]fr.
+**Contact**: felix.pasquier@ensae.fr.
