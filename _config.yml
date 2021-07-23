@@ -11,9 +11,9 @@ title                    : "Félix Pasquier"
 title_separator          : "-"
 name                     : &name "Félix Pasquier"
 description              : &description "PhD Candidate in Economics at CREST/ENSAE/IP Paris"
-url                      : https://felixpasquier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pasquierfelix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PasquierFelix/felixpasquier.github.io"
+repository               : "PasquierFelix.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "PasquierFelix"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@FelixPasquier"
+  twitter          : "FelixPasquier"
   vine             :
   weibo            :
   xing             :
