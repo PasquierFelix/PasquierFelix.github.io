@@ -20,5 +20,5 @@ author_profile: true
 ## Work in Progress
 
 <ul>
- <li> Fuzzy Differences-in-Differences with Grouped Data (with <a href="https://sites.google.com/site/clementdechaisemartin/">Clément de Chaisemartin</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>)</li>
+ <li> Fuzzy Difference-in-Differences with Grouped Data (with <a href="https://sites.google.com/site/clementdechaisemartin/">Clément de Chaisemartin</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>)</li>
 </ul>
