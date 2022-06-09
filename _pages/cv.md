@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://pasquierfelix.github.io/files/Félix PASQUIER-English Resume - Jun2022.pdf).
+You can find my full CV [here](https://pasquierfelix.github.io/files/CV_Jun2022.pdf).
 
 ## Education
 * M.S. in Economics, Institut Polytechnique de Paris, 2020
