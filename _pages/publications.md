@@ -21,6 +21,6 @@ author_profile: true
 
 <ul>
  <li> Fuzzy Difference-in-Differences with Grouped Data (with <a href="https://sites.google.com/site/clementdechaisemartin/">Clément de Chaisemartin</a> and <a href="https://faculty.crest.fr/xdhaultfoeuille/">Xavier D'Haultfœuille</a>)</li>
-  <li> Estimating Heterogeneous Peer Effects with Partial Population Experiments (with <a href="[https://sites.google.com/site/clementdechaisemartin/](https://sites.google.com/site/paulinerossimoulin/)">Pauline Rossi</a> and <a href="https://www.zhengwangeconomics.com/">Zheng Wang</a>)</li>
+  <li> Estimating Heterogeneous Peer Effects with Partial Population Experiments (with <a href="https://sites.google.com/site/paulinerossimoulin/">Pauline Rossi</a> and <a href="https://www.zhengwangeconomics.com/">Zheng Wang</a>)</li>
  <li> Elderly Home Care Market and Informal Care Supply </li>
 </ul>
