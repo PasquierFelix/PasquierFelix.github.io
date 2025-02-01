@@ -12,6 +12,7 @@ redirect_from:
 You can find my full CV [here](https://pasquierfelix.github.io/files/CV_Jun2024.pdf).
 
 ## Education
+* PhD in Economics, Institut Polytechnique de Paris, 2024
 * M.S. in Economics, Institut Polytechnique de Paris, 2020
 * Economics and Statistics Engineering Degree, ENSAE Paris, 2020
 * B.A. in Social Sciences, Sciences Po Paris, 2017
